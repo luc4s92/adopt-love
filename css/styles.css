@@ -109,7 +109,7 @@
 
 .hero {
   background: linear-gradient(to right, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1)),
-    url("./assets/hero.jpg");
+    url("../assets/hero.jpg");
   height: 100vh;
   background-position: center;
   background-size: cover;
@@ -395,7 +395,7 @@
       rgba(0, 0, 0, 0.6) 35%,
       rgba(0, 0, 0, 0.1) 100%
     ),
-    url("./assets/perroygato.jpg") no-repeat center;
+    url("../assets/perroygato.jpg") no-repeat center;
   background-size: cover;
   height: 450px;
   width: 100%;
